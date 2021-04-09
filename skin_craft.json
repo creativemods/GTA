@@ -1,0 +1,143 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Kawaii Skin",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":2,
+      "judul":"Dream Skin",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":3,
+      "judul":"Zombie Skin",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
+    }
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Alien Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/alien-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/CnMqFudz1lp8sWSQhvSf6EL8FiEdZqJgKS2Cg4zayZOpGz9lmKTtCO2RcuDnk44VsuA1FvthnQF2SlfLM7t0AMM"
+  },
+  {
+    "id":2,
+    "nama_skin":"Swat Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/swat-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/eOZRTizyaQn1nhS5JO_7OxhqyEEEw6Crp1riZKPHHnPCmg9wLc4KDOBnLXt5IwLnjtd281RkTfRY45Kyw8ncoBQ"
+  },
+  {
+    "id":3,
+    "nama_skin":"Cj Gta Sa",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/cj-gta-sa.png",
+    "view_skin":"https://lh3.googleusercontent.com/Fw7ejvQFKPaeqEFPMEWIRMbm4TpAjS_JAvu1Gq426DtNubCi4NGIGotw0inbN6iUfwc9q4vm5TyFgTazYAiyzw"
+  },
+
+  {
+    "id":4,
+    "nama_skin":"Chop Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/chop-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/I91P7hq6QO_EEQgxKiXr7n9Gf5iQY4B2yn0lm1z6QHS7B4l2tXilY1SEwqWc8AVIFOr8ZTsQtVcqiqnjqkzXkA"
+  },
+  {
+    "id":5,
+    "nama_skin":"Trevor Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/trevor-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/WMavdwTYhgGOp3NmTtsm_EqI_rbhKRslgESmdowkAL0ndWfMYySD289O2wcMnI6J0LhdNIL60TVbM9dMVDROn0o"
+  },
+  {
+    "id":6,
+    "nama_skin":"GTA",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/a00wagGodiXUlIH1qlHLQzdlad6Sp3ezW8cpKeHA1Q83d1zZ54VPab6piUdyEmc64nJPoUJ1VtzOF9ohawerlA"
+  },
+  {
+    "id":7,
+    "nama_skin":"Claude Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/claude-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/cwDRflykWW3_BguThkU_sLCCEJKreUgcaieJ0CgiNQliw4tneWIBeh5DO_wckV5OZu21MKUTUvO-CpcYXNC7U6M"
+  },
+  {
+    "id":8,
+    "nama_skin":"Ricardo Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/ricardo-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/joyPW0FiHE8-rnabgZE3zhm4NT7Nx7avQkqvb9UmKL4_Lbo7z4_I8N4Lmz5OuZDtOG_C5ZynvqsuaMLYXh5m7g"
+  },
+  {
+    "id":9,
+    "nama_skin":"Toomy Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/toomy-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/_t-vLSNSFEUia6mgcOuFC6iyRagTbU0tKhnkRGENS2d-gmTk9V9JoiOKTdWoIUdsDvIYmiToDKQZrsUGTDTpuQ"
+  },
+
+  {
+    "id":10,
+    "nama_skin":"GTA 1",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/gta-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/F93DJYV_8SCduSjUHgIQ4v9gXop6NgvAL6dqsfclzPI3IPKof9jZdxTKFSYhNNrClyssiaeWtYqvFQDVoiB4Iw"
+  },
+  {
+    "id":11,
+    "nama_skin":"Michael Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/michael-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZqzYLWHw5-FP1w8e5LewubVZEE8nPgseoY8FP-jC2XZ6p7w41H0poniTsYJ9O7iIKqV3Mcz3Mh3AAObJ8tbVkA"
+  },
+  {
+    "id":12,
+    "nama_skin":"San Andreas Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/san-andreas-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/vJi0zbmV86nD1-w7wCPLGE5OKmSKzkJwyKhiTdDmO9e89hXoqBtsMsDN5DpnAsGlHPUEBvX0WCYa40j_z87nPA"
+  },
+  {
+    "id":13,
+    "nama_skin":"Balla Gta San",
+    "skin_url":"https://ia601503.us.archive.org/13/items/san-andreas-gta/gta/balla-gta-sa.png",
+    "view_skin":"https://lh3.googleusercontent.com/W9OWQTJnLgOocmYK30AGFxTwlzywEPrzq0HX7ukc64t8uCmPodWdoEsaVoSxU4VALA_pP7Ru4_2i_KTM0PeY2w"
+  },
+  {
+    "id":14,
+    "nama_skin":"Toni Gta",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/toni-gta.png",
+    "view_skin":"https://lh3.googleusercontent.com/GLcXwcL5oKxP24lkga51ow3W_W4lI1zPffX98b4DqJcCdYxGZCbMktKJ5v9oHFojeu1sFHZH7k6vN2R_QgbNfw"
+  },
+  {
+    "id":15,
+    "nama_skin":"Sweet Gta San",
+    "skin_url":"https://ia801503.us.archive.org/13/items/san-andreas-gta/gta/sweet-gta-a.png",
+    "view_skin":"https://lh3.googleusercontent.com/BP-IxTHw7E1D55QnIAkdQJLpuDp2V12oVhQ_SvVFdqHd0D-XmCXILPbaTr9bnXlk1p8iFoSMf9QY4y7OfjUnsA"
+  }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
